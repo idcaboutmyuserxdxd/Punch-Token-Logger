@@ -16,7 +16,6 @@
  
 <p align="center">
   Telegram server: wtf nigga
-  Discord server: https://discord.gg/H2sV9mM6HD
   <br>
 
 </p>
