@@ -1,24 +1,17 @@
 <h1 align="center">
-💨 BLX Stealer 💨 
+
 </h1>
 <h2 align="center">
 🌟 Please star the repo more stars = more updates 🌟 
 </h2>
 <p align="center"> 
   <kbd>
-<img src="https://cdn.discordapp.com/attachments/1059829665268768898/1113544314992214057/Picsart_23-05-10_18-25-19-907.png" width="400"></img>
+<img src="
+"></img>
   </kbd>
 </p>
 <p align="center">
-    <img src="https://img.shields.io/github/stars/blxstealer/BLX-Stealer?color=%23000000&logoColor=%23000000">
-    <img src="https://img.shields.io/github/forks/blxstealer/BLX-Stealer?color=%23000000"> 
-    <br>
-    <img src="https://img.shields.io/github/languages/top/blxstealer/BLX-Stealer?color=%23000000">
-    <img src="https://img.shields.io/github/last-commit/blxstealer/BLX-Stealer?color=%23000000&logoColor=%23000000">
-    <br>
-    <img src="https://img.shields.io/github/issues/blxstealer/BLX-Stealer?color=%23000000&logoColor=%23000000">
-    <img src="https://img.shields.io/github/issues-closed/blxstealer/BLX-Stealer?color=%23000000&logoColor=%23000000">
-    <br>
+   
 </p>
  
 <p align="center">
