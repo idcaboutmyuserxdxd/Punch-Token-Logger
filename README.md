@@ -68,11 +68,10 @@
 
 ### Setup
 
-1. [Download source code zip](https://github.com/blxstealer/BLX-Stealer/archive/refs/heads/main.zip)
-2. Extract zip
-3. First install reqiured packages by double clicking `install.bat` file
-4. Run the builder by double clicking the `build.bat` file
-5. Follow instructions in builder and your exe will be found in the `dist` folder under the name `main.exe`
+1. Extract zip
+2. First install reqiured packages by double clicking `install.bat` file
+3. Run the builder by double clicking the `build.bat` file
+4. Follow instructions in builder and your exe will be found in the `dist` folder under the name `main.exe`
 
 <div align="center">
     <img style="border-radius: 15px; display: block; margin-left: auto; margin-right: auto; margin-bottom:20px;" width="70%" src="img/img4.png"></img>
